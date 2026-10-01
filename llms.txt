@@ -1,0 +1,42 @@
+# Gift Wrap Game
+
+> Gift Wrap Game is a free, cozy block puzzle. Drop satin ribbons on an 8×8 board, fill the ring around each gift and watch it wrap with a bow. Collect charms and unlock 16 themed worlds.
+
+Gift Wrap Game (also called Gift Wrap) is a free, cozy block puzzle game for iPhone and Android, made by the independent studio Frame Labs. It is coming soon to the App Store and Google Play.
+
+## How it plays
+- Drop a ribbon: Pick one of three ribbon pieces and drop it anywhere it fits on the 8×8 board.
+- Fill the ring: Every gift has a dashed ring around it. Cover each square of the ring with ribbon.
+- Watch it wrap: The ribbon ties, the bow pops and the gift opens with confetti and stars. Full rows and columns clear too.
+
+## What makes it different
+- Every theme is a whole scene, with its own board, ribbons, wrapping paper and wrap burst. Northern lights, a candy shop, a trip around the world, a spooky Halloween night and many more.
+- Wrapped gifts sometimes leave a charm behind. Find all 12 charms of an album and its theme is yours. Golden gifts hide the rare ones.
+- Free to play: Download and play for free. Star packs and ad removal are optional. No timers: Take your time. A game ends only when no piece fits. Plays offline: Your progress stays on your phone. No account needed. 20 languages: From English and Türkçe to 日本語 and العربية.
+- Languages: English, Türkçe, Deutsch, Español, Français, Italiano, Português, Nederlands, Polski, Svenska, Русский, Bahasa Indonesia, Tiếng Việt, ไทย, हिन्दी, العربية, 日本語, 한국어, 简体中文, 繁體中文.
+
+## Questions
+### What is Gift Wrap Game?
+Gift Wrap Game is a free, cozy block puzzle game for iPhone and Android by the independent studio Frame Labs. You place satin ribbon pieces on an 8×8 board to wrap gift boxes, earn stars, collect charms and unlock themed worlds.
+
+### How do you play?
+Drag ribbon pieces onto the board. Fill every square of the dashed ring around a gift to wrap it. Full rows and columns also clear. The game ends when none of your three pieces fits.
+
+### Is it free?
+Yes. The game is free with ads. You can buy stars or remove the ads between games, but you never have to.
+
+### When does it come out?
+Gift Wrap Game is coming soon to the App Store and Google Play.
+
+### What are charms and themes?
+Charms are small collectibles that drop from wrapped gifts. Each album has 12. Finishing an album unlocks its theme, a new world for your board.
+
+### Do I need the internet?
+No, you can play offline. Ads and purchases need a connection.
+
+## Links
+- Website: https://aycabadem.github.io/
+- Play a demo in the browser: https://aycabadem.github.io/#play
+- Privacy policy: https://aycabadem.github.io/privacy.html
+- Support: https://aycabadem.github.io/support.html
+- Contact: hello.framelabs@gmail.com
