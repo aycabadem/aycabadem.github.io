@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Builds the Gift Wrap Game site: one index.html per language, plus
+"""Builds the Ribbon Rush site: one index.html per language, plus
 sitemap.xml, robots.txt and llms.txt. Run from the repo root:
 
     python3 _src/build.py
@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from strings import LANGS, T  # noqa: E402
 
 BASE = 'https://aycabadem.github.io'
-NAME = 'Gift Wrap Game'
+NAME = 'Ribbon Rush'
 EMAIL = 'hello.framelabs@gmail.com'
 UPDATED = '2026-10-01'
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -52,7 +52,7 @@ def jsonld(code, t):
            'email': EMAIL, 'logo': BASE + '/img/icon-512.png'}
     game = {
         '@type': ['VideoGame', 'MobileApplication'], '@id': BASE + '/#game', 'name': NAME,
-        'alternateName': ['Gift Wrap', 'Gift Wrap Puzzle'], 'url': url, 'description': t['desc'],
+        'alternateName': ['Ribbon Rush: Gift Block Puzzle', 'Gift Wrap Game'], 'url': url, 'description': t['desc'],
         'image': BASE + '/img/icon-512.png',
         'screenshot': [f'{BASE}/img/{s}.webp' for s, _ in SHOTS[:5]],
         'genre': ['Puzzle', 'Block puzzle', 'Casual'], 'gamePlatform': ['iOS', 'Android'],
@@ -268,7 +268,7 @@ def main():
 
 > {en["desc"]}
 
-{NAME} (also called Gift Wrap) is a free, cozy block puzzle game for iPhone and Android, made by the independent studio Frame Labs. It is coming soon to the App Store and Google Play.
+{NAME} (full store name: Ribbon Rush: Gift Block Puzzle) is a free, cozy block puzzle game for iPhone and Android, made by the independent studio Frame Labs. It is coming soon to the App Store and Google Play.
 
 ## How it plays
 - {en["steps"][0][0]}: {en["steps"][0][1]}

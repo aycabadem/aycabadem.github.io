@@ -1,8 +1,8 @@
-# Gift Wrap Game
+# Ribbon Rush
 
-> Gift Wrap Game is a free, cozy block puzzle. Drop satin ribbons on an 8×8 board, fill the ring around each gift and watch it wrap with a bow. Collect charms and unlock 16 themed worlds.
+> Ribbon Rush is a free, cozy block puzzle. Drop satin ribbons on an 8×8 board, fill the ring around each gift and watch it wrap with a bow. Collect charms and unlock 16 themed worlds.
 
-Gift Wrap Game (also called Gift Wrap) is a free, cozy block puzzle game for iPhone and Android, made by the independent studio Frame Labs. It is coming soon to the App Store and Google Play.
+Ribbon Rush (full store name: Ribbon Rush: Gift Block Puzzle) is a free, cozy block puzzle game for iPhone and Android, made by the independent studio Frame Labs. It is coming soon to the App Store and Google Play.
 
 ## How it plays
 - Drop a ribbon: Pick one of three ribbon pieces and drop it anywhere it fits on the 8×8 board.
@@ -16,8 +16,8 @@ Gift Wrap Game (also called Gift Wrap) is a free, cozy block puzzle game for iPh
 - Languages: English, Türkçe, Deutsch, Español, Français, Italiano, Português, Nederlands, Polski, Svenska, Русский, Bahasa Indonesia, Tiếng Việt, ไทย, हिन्दी, العربية, 日本語, 한국어, 简体中文, 繁體中文.
 
 ## Questions
-### What is Gift Wrap Game?
-Gift Wrap Game is a free, cozy block puzzle game for iPhone and Android by the independent studio Frame Labs. You place satin ribbon pieces on an 8×8 board to wrap gift boxes, earn stars, collect charms and unlock themed worlds.
+### What is Ribbon Rush?
+Ribbon Rush is a free, cozy block puzzle game for iPhone and Android by the independent studio Frame Labs. You place satin ribbon pieces on an 8×8 board to wrap gift boxes, earn stars, collect charms and unlock themed worlds.
 
 ### How do you play?
 Drag ribbon pieces onto the board. Fill every square of the dashed ring around a gift to wrap it. Full rows and columns also clear. The game ends when none of your three pieces fits.
@@ -26,7 +26,7 @@ Drag ribbon pieces onto the board. Fill every square of the dashed ring around a
 Yes. The game is free with ads. You can buy stars or remove the ads between games, but you never have to.
 
 ### When does it come out?
-Gift Wrap Game is coming soon to the App Store and Google Play.
+Ribbon Rush is coming soon to the App Store and Google Play.
 
 ### What are charms and themes?
 Charms are small collectibles that drop from wrapped gifts. Each album has 12. Finishing an album unlocks its theme, a new world for your board.
